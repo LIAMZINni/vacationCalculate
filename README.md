@@ -8,6 +8,6 @@ GET "/calculacte"
 Postman 
 
 
-![img.png](img/img.png)
+![img.png](demo/img/img.png)
 
-![img.png](img.png)
+![img.png](demo/img.png)
